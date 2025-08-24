@@ -3,12 +3,18 @@
 
 <div align="center">
 
-[![Azure](https://img.shields.io/badge/Azure-VM-0078d4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/)
-[![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Stream%20Processing-231F20?style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Real%20Time%20Analytics-E25A1C?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)
-[![ClickHouse](https://img.shields.io/badge/ClickHouse-Analytics%20DB-FFCC01?style=for-the-badge&logo=clickhouse)](https://clickhouse.com/)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Workflow%20Orchestration-017CEE?style=for-the-badge&logo=apacheairflow)](https://airflow.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Azure](https://img.shields.io/badge/Azure-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://metabase.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 </div>
 
