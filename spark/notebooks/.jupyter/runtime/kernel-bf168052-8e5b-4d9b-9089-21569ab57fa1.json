@@ -1,0 +1,13 @@
+{
+  "shell_port": 40815,
+  "iopub_port": 37085,
+  "stdin_port": 60685,
+  "control_port": 43329,
+  "hb_port": 37975,
+  "ip": "127.0.0.1",
+  "key": "81b28652-2d7be9fd81ba351d179c7097",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/TLC.ipynb"
+}

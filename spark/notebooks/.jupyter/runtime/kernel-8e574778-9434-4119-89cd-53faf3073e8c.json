@@ -1,0 +1,13 @@
+{
+  "shell_port": 60423,
+  "iopub_port": 34393,
+  "stdin_port": 38721,
+  "control_port": 41865,
+  "hb_port": 60111,
+  "ip": "127.0.0.1",
+  "key": "0103d801-e95fbc59e988ea9f15a2ad40",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/StreamingWorkspace/alerts.ipynb"
+}

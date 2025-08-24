@@ -1,0 +1,13 @@
+{
+  "shell_port": 45995,
+  "iopub_port": 59763,
+  "stdin_port": 39899,
+  "control_port": 59073,
+  "hb_port": 52715,
+  "ip": "127.0.0.1",
+  "key": "e696e07d-940571de3112419d9a4159cf",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/StreamingWorkspace/trip_updates.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 52399,
+  "iopub_port": 51827,
+  "stdin_port": 55711,
+  "control_port": 60277,
+  "hb_port": 58371,
+  "ip": "127.0.0.1",
+  "key": "3fe94cb5-dedcf17742ecb442b236b4a4",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/gtfs_load_to_postgres.ipynb"
+}

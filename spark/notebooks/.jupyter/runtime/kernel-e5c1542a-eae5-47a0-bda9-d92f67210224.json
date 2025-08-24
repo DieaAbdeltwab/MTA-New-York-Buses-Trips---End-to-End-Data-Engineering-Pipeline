@@ -1,0 +1,13 @@
+{
+  "shell_port": 35847,
+  "iopub_port": 47449,
+  "stdin_port": 34161,
+  "control_port": 60357,
+  "hb_port": 51153,
+  "ip": "127.0.0.1",
+  "key": "67e30e6a-230d9aac58c46cdf14c956b0",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/gtfs_transfer_data_to_clickhouse.ipynb"
+}

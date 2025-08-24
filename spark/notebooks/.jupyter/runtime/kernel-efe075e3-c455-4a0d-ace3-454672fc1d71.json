@@ -1,0 +1,13 @@
+{
+  "shell_port": 52131,
+  "iopub_port": 49437,
+  "stdin_port": 58899,
+  "control_port": 49993,
+  "hb_port": 44589,
+  "ip": "127.0.0.1",
+  "key": "efca0efc-7e5a1a71f1a8d93a0f0d788e",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/opt/notebooks/StreamingWorkspace/vehicle_position.ipynb"
+}
