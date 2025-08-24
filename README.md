@@ -19,7 +19,10 @@
 </div>
 
 ---
+## 🏗️ **Architecture ** 🔥
+![Architecture](./images/pipeline_architecture.png)
 
+---
 <div align="center">
 
 > **🔥 A comprehensive real-time data engineering solution for NYC MTA bus operations 🔥**  
@@ -80,10 +83,6 @@
 
 ---
 
-## 🏗️ **Architecture Overview** 🔥
-![Architecture](./images/pipeline_architecture.png)
-
----
 
 ## 📦 **Batch Data Processing Pipeline** ⚡
 <div align="center">
