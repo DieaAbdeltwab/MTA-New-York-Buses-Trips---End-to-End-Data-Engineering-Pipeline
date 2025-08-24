@@ -25,8 +25,8 @@
 ---
 <div align="center">
 
-> **🔥 A comprehensive real-time data engineering solution for NYC MTA bus operations 🔥**  
-> *🚀 Combining batch processing and streaming analytics to optimize transit performance and enhance passenger experience 🌟*
+ **🔥 A comprehensive real-time data engineering solution for NYC MTA bus operations 🔥**  
+ *🚀 Combining batch processing and streaming analytics to optimize transit performance and enhance passenger experience 🌟*
 
 </div>
 
