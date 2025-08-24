@@ -27,11 +27,12 @@
 ## 📈 **Business Impact** 💼
 
 ### **🎯 Key Business Benefits** 🔥
-- **✈️ Improving Operational Efficiency**: By analyzing metrics like average delays 🕒, on-time performance (OTP) ⏱️, delayed trips percentage 📉, and total alerts 🚨, the project helps identify underperforming routes and boroughs. This enables better resource allocation 💰, such as prioritizing maintenance 🔧 or rerouting during peak hours 🚦.
 
-- **😊 Enhancing Passenger Experience**: Real-time dashboards track active vehicles 🚌, arrival rates ⏰ and delays per borough or route 🗺️, allowing for timely alerts 📢 and predictions 🔮. This reduces wait times ⏳ and frustration for riders 😤➡️😌, potentially increasing ridership 📈 and satisfaction 🌟.
+- **⚡ Improving Operational Efficiency**: Analyze delays 🕒, on-time performance ⏱️, and alerts 🚨 to identify underperforming routes. Better resource allocation 💰 for maintenance 🔧 and peak hour routing 🚦.
 
-- **💰 Cost and Resource Optimization**: Monitoring alerts 🚨 and performance trends 📊 (e.g., delays peaking around certain hours in boroughs 🌅🌇) can help minimize operational costs 💸 by preventing escalations 📈 and optimizing fleet usage 🚌⚡.
+- **😊 Enhancing Passenger Experience**: Real-time vehicle tracking 🚌 and arrival predictions 🔮 reduce wait times ⏳ and increase rider satisfaction 🌟.
+
+- **💰 Cost and Resource Optimization**: Monitor performance trends 📊 to minimize operational costs 💸 and optimize fleet usage 🚌⚡.
 
 ### **👥 Target Users** 🎯
 <div align="center">
