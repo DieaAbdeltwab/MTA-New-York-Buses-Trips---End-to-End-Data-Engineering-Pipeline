@@ -223,7 +223,7 @@ ALTER TABLE bus_routes ADD COLUMN is_current BOOLEAN;
 - **Real-time Monitoring**: Active vehicles and arrival rates
   
 ### **📊 Day-to-Day Dashboard**
-![Dashboard](./images/Day-to-Day Dashboard.png)
+![Dashboard](./images/Day-to-Day-Dashboard.png)
 ---
 ### **📊 Real-time Dashboard**
 ![Dashboard](./images/Real-time-Dashboard.png)
@@ -257,51 +257,21 @@ ALTER TABLE bus_routes ADD COLUMN is_current BOOLEAN;
 
 ## 👥 **Project Team** 🏆
 
-<div align="center">
-<img src="https://media.giphy.com/media/l1ughbsd9qXz2s9SE/giphy.gif" width="400"/>
-
-*🌟 Meet the Dream Team Behind the Magic! ✨*
-</div>
-
 **🎓 ITI Data Engineering Cohort** 🚀
-
 <div align="center">
 
-| 👤 Team Member | 💼 Role | 🎯 Contribution |
-|-------------|------|-------------|
-| **🏗️ Ahmed Rabie** | Data Architect | Pipeline design & system architecture 📐 |
-| **⚡ Diaa Abdel Tawab** | Stream Processing Lead | Kafka & Spark Streaming implementation 🌊 |
-| **🔧 Mohanad Hossam** | Backend Engineer | API integration & data processing 🔗 |
-| **☁️ Mohamed Ibrahim** | Infrastructure Engineer | Cloud deployment & DevOps 🛠️ |
-| **📊 Mohamed Zaki** | Analytics Engineer | Dashboard development & ClickHouse optimization 📈 |
-| **🌟 Adel Ashraf** | Team Contributor | Additional project support 🤝 |
+| 👤 **Team Member** | 🔗 **LinkedIn Profile** |
+|-------------------|------------------------|
+| **🏗️ Ahmed Rabie** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-m-rabie-0ba5b120b/) |
+| **⚡ Diaa Abdel Tawab** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieaabdeltwab/) |
+| **🔧 Mohanad Hossam** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ho03/) |
+| **☁️ Mohamed Ibrahim** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abu-en-neel-b7a70a280/) |
+| **📊 Mohamed Zaki** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaki-266126189/) |
 
 </div>
 
-<div align="center">
-
-🤝 **Teamwork Makes the Dream Work! 💫**
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="200"/>
-
-### ⭐ **Star this repository if it helped you!** ⭐
+🤝 **Teamwork Makes the Great Work! 💫**
 
 **🔥 Built with ❤️ by the ITI Data Engineering Team 🔥**
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
 
-[![GitHub stars](https://img.shields.io/github/stars/DieaAbdeltwab/MTA-New-York-Buses-Trips---End-to-End-Data-Engineering-Pipeline?style=social)](https://github.com/DieaAbdeltwab/MTA-New-York-Buses-Trips---End-to-End-Data-Engineering-Pipeline/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DieaAbdeltwab/MTA-New-York-Buses-Trips---End-to-End-Data-Engineering-Pipeline?style=social)](https://github.com/DieaAbdeltwab/MTA-New-York-Buses-Trips---End-to-End-Data-Engineering-Pipeline/network)
-
-🚀 **Thank you for visiting our project! Keep coding and stay awesome! 💪**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"/>
-
-</div>
