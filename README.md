@@ -74,10 +74,8 @@
 ---
 
 ## 🏗️ **Architecture Overview** 🔥
+![Architecture](./images/pipeline_architecture.png)
 
-
-
-**🌩️ Infrastructure**: Azure VM is the cloud-based environment where Docker Compose file connects all tools together 🐳✨
 ---
 
 ## 🔄 **Batch Data Processing Pipeline** ⚡
@@ -98,8 +96,15 @@ The most important aspect is the **📅 last update timestamp** which determines
 
 - **📝 JSON File Maintenance**: Stores last update date for each region 🗃️
 - **🔍 Daily Comparison**: Website's latest update vs. stored date in JSON file ⚖️
-- **🚫 Logic**: If dates match → no new update → skip pipeline (except final task) 
+- **🚫 Logic**: If dates match → no new update → skip pipeline (except final task)
 - **✅ Logic**: If dates don't match → proceed with full workflow 🚀
+---
+## 🚫 skip pipeline
+![Airflow 1](./images/Airflow1.png)
+---
+## ✅ proceed with full workflow 
+![Airflow 2](./images/Airflow2.png)
+---
 
 ### **📁 Data Processing Workflow** 🔥
 When updates are detected, the workflow proceeds:
@@ -209,20 +214,19 @@ ALTER TABLE bus_routes ADD COLUMN is_current BOOLEAN;
 
 ---
 
-## 🎛️ **Dashboard Features**
+## 🎛️ **Dashboards **
 
-### **📊 Day-to-Day Dashboard**
+### **📊 Dashboard**
 - **Live Vehicle Tracking**: Current positions and status
 - **Performance Metrics**: OTP, average delays, alert counts
 - **Borough Analysis**: Route performance by geographic region
 - **Real-time Monitoring**: Active vehicles and arrival rates
-
-### **🔍 Interactive Filters**
-- **Time Range**: Multiple time period selections
-- **Geographic**: Filter by borough, route, or company
-- **Metrics**: Customizable KPI selections
-- **Real-time Updates**: Live data refresh capabilities
-
+  
+### **📊 Day-to-Day Dashboard**
+![Dashboard](./images/Day-to-Day Dashboard.png)
+---
+### **📊 Real-time Dashboard**
+![Dashboard](./images/Real-time-Dashboard.png)
 ---
 
 ## 🚀 **Key Technical Challenges & Solutions** 💪
