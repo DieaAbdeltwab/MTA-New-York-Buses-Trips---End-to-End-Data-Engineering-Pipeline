@@ -55,10 +55,9 @@
 
 ---
 
-## 📊 **Data Sources** 🔥
-
+## 📊 **Data Sources And Web Scraping** 🔥
 <div align="center">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350"/>
 </div>
 
 ### **📦 Batch Data Source** 
@@ -220,7 +219,12 @@ ALTER TABLE bus_routes ADD COLUMN is_current BOOLEAN;
 
 ---
 
-## 🎛️ **Dashboards **
+## 🎛️ Dashboards 
+<div align="center">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="350"/>
+</div>
+
+---
 
 ### **📊 Dashboard**
 - **Live Vehicle Tracking**: Current positions and status
