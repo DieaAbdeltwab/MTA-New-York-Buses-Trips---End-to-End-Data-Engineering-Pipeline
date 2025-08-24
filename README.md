@@ -57,7 +57,7 @@
 
 ## 📊 **Data Sources And Web Scraping** 🔥
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="350"/>
 </div>
 
 ### **📦 Batch Data Source** 
