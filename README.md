@@ -19,7 +19,7 @@
 </div>
 
 ---
-## 🏗️ **Architecture ** 🔥
+## 🏗️ Architecture  🔥
 ![Architecture](./images/pipeline_architecture.png)
 
 ---
